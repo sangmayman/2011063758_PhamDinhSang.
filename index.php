@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Đây là trang chủ</h1>
-    <p>Đây là nội dung trang chủ.</p>
-    <script src="js/script.js"></script>
+
 </body>
 </html>

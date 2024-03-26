@@ -1,3 +1,2 @@
-Kiemtrangiuaki
-
-Pham Dinh Sang - 2011063758
+# Phạm Đình Sang
+* Mssv: 2011063758
